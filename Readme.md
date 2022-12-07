@@ -1,0 +1,1 @@
+Olá. Estes são alguns exercícios utilizando HTML, CSS e JavaScript para demonstrar conceitos sobre essas linguagens.
